@@ -4,7 +4,7 @@ I’m a Computer Science and Engineering student passionate about programming an
 
 Skills: HTML / CSS/JS /c/c++
 
-- 🔭 I’m currently working on improving my skills in programming etar bangla ki 
+- 🔭 I’m currently working on improving my skills in programming. 
 - 🌱 I’m currently learning JavaScript. 
 - 👯 I’m looking to collaborate on github 
 - 🤔 I’m looking for help with my programming assignments. 
